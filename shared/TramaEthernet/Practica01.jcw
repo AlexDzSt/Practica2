@@ -1,0 +1,20 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "Practica01"
+
+! Start Project Structure
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "send_eth.c" #[EndFile]
+#[BeginFile]SOURCE := "makefile" #[EndFile]
+#[BeginFile]SOURCE := "Makefile.bat" #[EndFile]
+#[BeginFile]SOURCE := "recv_eth.c" #[EndFile]
+#[BeginFile]SOURCE := "eth.h" #[EndFile]
+#[BeginFile]SOURCE := "D:\\CygWin\\Cursos\\IntroduccionRedesComputadoras25O\\Practica01\\lab.conf" #[EndFile]
+#[BeginFile]SOURCE := "D:\\CygWin\\Cursos\\IntroduccionRedesComputadoras25O\\Practica01\\pc1.startup" #[EndFile]
+#[BeginFile]SOURCE := "D:\\CygWin\\Cursos\\IntroduccionRedesComputadoras25O\\Practica01\\pc2.startup" #[EndFile]
+
+! Start Breakpoint Structure
+
